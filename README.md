@@ -23,7 +23,6 @@ This project analyzes ecommerce customer behavior using:
 
 ## Key Insights
 
-- Champions generate majority revenue
-- Repeat customers drive high CLV
-- Revenue peaks during holiday season
-- Retention drops after month 2
+> RFM segmentation, cohort retention & market basket analysis  
+> on 793K transactions · £17.3M revenue · 5,860 customers  
+> **Tools:** Python, Pandas, DuckDB, SQL, Power BI · [View →](https://github.com/rudraparmar442/Ecommerce-Customer-Analytics.git)
