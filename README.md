@@ -19,7 +19,7 @@ This project analyzes ecommerce customer behavior using:
 
 ## Dashboard Preview
 
-![Dashboard](reports/dashboard_preview.png)
+![Dashboard](dashboard.png)
 
 ## Key Insights
 
